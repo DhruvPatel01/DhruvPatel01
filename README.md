@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhruvPatel01
+- 👋 Hi, I’m Dhruv.
 - 👀 I’m interested in Scalable Machine Learning, Distributed Systems, and computers in general.
 - 📫 To know more about me head out to [my blog](https://dhruvpatel.dev).
 
