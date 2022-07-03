@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Dhruv.
-- 👀 I’m interested in Scalable Machine Learning, Distributed Systems, and computers in general.
-- 📫 To know more about me head out to [my blog](https://dhruvpatel.dev).
+- Hi, I’m Dhruv.
+- I also write [blog](https://dhruvpatel.dev). Though it is mostly written for me, you may find something interesting there.
 
 <!---
 DhruvPatel01/DhruvPatel01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
